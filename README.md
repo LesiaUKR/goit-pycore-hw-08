@@ -6,7 +6,8 @@
 
 ## Technical task description
 
-> [!TIP]☝ In this homework assignment, you need to add functionality to save the address book to disk and restore it from disk.
+> [!TIP]
+> In this homework assignment, you need to add functionality to save the address book to disk and restore it from disk.
 
 For this purpose, you should choose the pickle protocol for data serialization/deserialization and implement methods that allow you to save all data to a file and load them from a file.
 
